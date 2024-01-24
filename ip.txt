@@ -1,0 +1,90 @@
+IP                   : 103.157.231.227
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Mumbai, India, Asia
+GeoLocation(lat, lon): 19.0759837, 72.8776559
+Currency             : Indian Rupee
+
+IP                   : 103.157.231.227
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Mumbai, India, Asia
+GeoLocation(lat, lon): 19.0759837, 72.8776559
+Currency             : Indian Rupee
+
+IP                   : 103.157.231.227
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Mumbai, India, Asia
+GeoLocation(lat, lon): 19.0759837, 72.8776559
+Currency             : Indian Rupee
+
+IP                   : 110.226.183.177
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Mumbai, India, Asia
+GeoLocation(lat, lon): 19.0759837, 72.8776559
+Currency             : Indian Rupee
+
+IP                   : 110.226.183.177
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Mumbai, India, Asia
+GeoLocation(lat, lon): 19.0759837, 72.8776559
+Currency             : Indian Rupee
+
+IP                   : 110.226.183.177
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Mumbai, India, Asia
+GeoLocation(lat, lon): 19.0759837, 72.8776559
+Currency             : Indian Rupee
+
+IP                   : 110.226.183.177
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Mumbai, India, Asia
+GeoLocation(lat, lon): 19.0759837, 72.8776559
+Currency             : Indian Rupee
+
+IP                   : 110.226.183.177
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Mumbai, India, Asia
+GeoLocation(lat, lon): 19.0759837, 72.8776559
+Currency             : Indian Rupee
+
+IP                   : 45.119.13.1
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Mumbai, India, Asia
+GeoLocation(lat, lon): 19.0759837, 72.8776559
+Currency             : Indian Rupee
+

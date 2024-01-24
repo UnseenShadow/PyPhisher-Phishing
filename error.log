@@ -1,0 +1,6 @@
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+HTTPSConnectionPool(host='api.shrtco.de', port=443): Max retries exceeded with url: /v2/shorten?url=https://announces-recreation-possibly-behaviour.trycloudflare.com (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7227fe0810>: Failed to resolve 'api.shrtco.de' ([Errno 7] No address associated with hostname)"))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+HTTPSConnectionPool(host='api.shrtco.de', port=443): Max retries exceeded with url: /v2/shorten?url=https://kshrt2.vercel.app/cf/announces-recreation-possibly-behaviour (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7227fe92d0>: Failed to resolve 'api.shrtco.de' ([Errno 7] No address associated with hostname)"))
+Invalid URL 'n': No schema supplied. Perhaps you meant http://n?
+Invalid URL 'n': No schema supplied. Perhaps you meant http://n?
